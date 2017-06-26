@@ -1,0 +1,5 @@
+com.google.gson.typeadapters
+etest
+etest.client
+etest.entities
+etest.gui
